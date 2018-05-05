@@ -1,0 +1,13 @@
+.resume {
+    margin-top: 10vh;
+}
+.pageTitle {
+    margin-top: 5vh;
+}
+ul.b {
+    list-style-type: circle;
+}
+.resumeSection {
+    padding-top: 2.5vh;
+    padding-bottom: 2.5vh;
+}
