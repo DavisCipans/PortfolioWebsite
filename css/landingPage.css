@@ -12,25 +12,16 @@
 }
 
 .casePic {
-    min-height: 25vh;
     height: 100%;
-    background-image: url("../img/p1.jpg") !important;
-    background-position: center;
 }
 .casePic:hover {
     box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
-.casePic2 {
-    min-height: 25vh;
-    height: 100%;
-    background-image: url("../img/p2.jpg") !important;
-    background-position: center;
-}
 .casePic2:hover {
     box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .caseRow {
-    padding-bottom: 10vh;
+    padding-bottom: 5vh;
 }
