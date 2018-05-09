@@ -61,6 +61,12 @@
 .visualIdentity {
     background-color: #F2F2F2;
 }
+.conclusion {
+    background-color: #21BC4D;
+    padding-top: 2.5vh;
+    padding-bottom: 2.5vh;
+    color: #fff;
+}
 .colorSection {
     padding-top: 2.5vh;
     margin-bottom: 5vh;
@@ -123,4 +129,8 @@
 .robotoBold {
     font-family: 'Roboto', sans-serif;
     font-weight: 700;
+}
+.text-muted-conclusion {
+    color: #114B5F !important;
+    font-weight: 500;
 }

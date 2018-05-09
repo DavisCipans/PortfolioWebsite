@@ -11,3 +11,8 @@ ul.b {
     padding-top: 2.5vh;
     padding-bottom: 2.5vh;
 }
+.pdfLink:link, :visited {
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
