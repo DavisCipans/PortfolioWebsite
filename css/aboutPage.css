@@ -4,3 +4,9 @@
 .aboutSection {
     padding: 5vh;
 }
+.contactLink:link, :visited {
+    text-decoration: none;
+    display: inline-block;
+    color: #212529;
+    margin-top: 1vh;
+}
